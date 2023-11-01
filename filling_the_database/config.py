@@ -1,0 +1,5 @@
+host = '127.0.0.1'
+user = 'postgres'
+password = 'ded'
+db_name = 'ru_to_sql'
+url = 'https://www.dns-shop.ru/catalog/17a89aab16404e77/videokarty/'

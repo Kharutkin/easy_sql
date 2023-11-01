@@ -1,0 +1,16 @@
+aggregate_functions = {'APPROX_COUNT_DISTINCT',
+                       'AVG',
+                       'CHECKSUM_AGG',
+                       'COUNT',
+                       'COUNT_BIG',
+                       'GROUPING',
+                       'GROUPING_ID',
+                       'MAX',
+                       'MIN',
+                       'STDEV',
+                       'STDEVP',
+                       'STRING_AGG',
+                       'SUM',
+                       'VAR',
+                       'VARP'
+                       }
